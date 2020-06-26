@@ -1,0 +1,6 @@
+@import url(./homepage-small.css);
+@import url(./hompage-midium.css);
+@import url(./hompage-large.css);
+.highlighted{
+    background-color: red;
+}
